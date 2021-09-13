@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Adding a comment
 int a[20][20];
 int dice[7];
 int dx[] = {0, 0, -1, 1};
